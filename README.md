@@ -15,9 +15,9 @@ Web Developer
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Netlify](http://anandhu.netlify.app)
+* 🖥️  See my portfolio at [Netlify](http://anandhums.netlify.app)
 * ✉️  You can contact me at [anandhumeleveettil@gmail.com](mailto:anandhumeleveettil@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm a Full Stack Web Developer(MEARN)
 
 ### Skills
 
