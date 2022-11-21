@@ -1,8 +1,5 @@
-<!-- - 👋 Hi, I’m Anandhu M S -->
-- 👀 I’m interested in Full Stack web Development...
-- 🌱 I completed my bachelor's degree in Computer Application...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 anandhu657/anandhu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 Hi 👋 My name is ANANDHU M S
 ============================
 
-Web Developer
+FULL STACK Web Developer
 -------------
-
+* 👀 I’m interested in Full Stack Web Development(MEARN)
+* 🌱 I completed my bachelor's degree in Computer Application...
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Netlify](http://anandhums.netlify.app)
 * ✉️  You can contact me at [anandhumeleveettil@gmail.com](mailto:anandhumeleveettil@gmail.com)
-* 🧠  I'm a Full Stack Web Developer(MEARN)
 
 ### Skills
 
