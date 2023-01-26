@@ -74,7 +74,7 @@ FULL STACK Web Developer
 <!-- New readme -->
 
 # 💫 About Me:
-I'm currently working on brototype as an intern<br>I'm looking to collaborate on MEARN projects.<br>I’m interested in Full Stack Web Development(MEARN)<br>I completed my bachelor's degree in Computer Application...<br>I'm currently learning GO language<br>I'm based in India<br><br>
+I'm currently working on brototype as an intern<br>I'm looking to collaborate on MEARN projects.<br>I’m interested in Full Stack Web Development(MEARN)<br>I completed my bachelor's degree in Computer Application...<br>I'm currently learning GO language<br><br>
 
 
 ## 🌐 Socials:
@@ -135,6 +135,22 @@ I'm currently working on brototype as an intern<br>I'm looking to collaborate on
 <li>MySQL</li>
 </ul>
 
+<h2><b>Personal websites:</b></h2>
+<a href="https://anandhums.netlify.app/">https://anandhums.netlify.app/</a><br>
+<a href="https://anandhu.netlify.app/">https://anandhu.netlify.app/</a><br>
+
+<h2><b>Website clones & designs:</b></h2>
+<a href="https://app.netlify.com/sites/kfcs/overview">KFC Clone</a><br>
+<a href="https://anandhu657.github.io/youtube-frontend-clone/">Youtube Clone</a><br>
+<a href="https://anandhu657.github.io/poco-Frontend-clone/">POCO Global Clone</a><br>
+<a href="https://ngtech.netlify.app/">ngTech pvt limited site model</a><br>
+<a href="https://codepen.io/anandhu657/full/zYPxQBY">New year eve timer</a><br>
+<a href="https://codepen.io/anandhu657/full/abWpPrK">Tribute page</a><br><br>
+
+<h2><b>Problem solvings:</b></h2>
+<a href="https://www.hackerrank.com/anandhumeleveet1">HackerRank</a><br>
+<a href="https://leetcode.com/anandhumeleveettil/">LeetCode</a><br>
+<a href="https://app.codesignal.com/profile/anandhu_m">Code Signal</a><br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anandhu657&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
