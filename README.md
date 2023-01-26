@@ -82,6 +82,59 @@ I'm currently working on brototype as an intern<br>I'm looking to collaborate on
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+<h1>💻 Projects</h1>
+<h2><b><a href="elecxo.shop">E-commerce web application:</a></b></h2>
+<p>It is a Web application that allows businesses to sell electronic items such as smartphones, laptops, tablets, and other gadgets online. The platform included a catalog of products with detailed descriptions, photos, and pricing information, as well as a shopping cart that allowed users to select and save items for purchase. The platform also featured a payment gateway that was integrated with various payment methods, including credit cards, debit cards, and online payment services like PayPal. In addition, the platform included customer accounts, which allowed users to save payment information, track orders, and access other features of the platform. Order tracking was also included, allowing users to track the progress of their orders from start to finish. Finally, the platform featured customer service, providing users with assistance and support whenever needed. Overall, it was a challenging but rewarding project that resulted in a user-friendly and successful ecommerce platform. Working on this project was a great opportunity to expand my skills in building scalable and user-friendly ecommerce platforms. I'm excited to bring this experience to future projects and help businesses grow their online presence.</p>
+<b>Technologies used:</b>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap</li>
+<li>JS</li>
+<li>Jquery</li>
+<li>Ajax</li>
+<li>NodeJS</li>
+<li>ExpressJS</li>
+<li>MongoDB</li>
+</ul>
+
+<h2><b>KSRTC student concession management system:</b></h2>
+<p>The project student concession management system is a web application which helps the students for renewing bus pass by online from their institute instead of going physically to the bus depot. The respective college or school can apply for concession for their students under their institute name, which eases the paper work of students. The system covers almost all the functional areas such as rates, applications, stops, depots etc..</p>
+<p>The project has 3 side of user interface which are admin, depot, and institute. The admin panel can be accessed only by the system admin. Admin is given the capability to add depots, bus type(LS,FP,SF..), bus fare</p>
+<p>While depot admin can add route and stops. They are also given the capability to add route stop along. Depot admin can the functionality to verify the student details and if they are satisfied they can approve the concession. They can view depot details. bus type and rate.</p>
+<p>And the institution can add student details. They are also given the application by submitting student details. Institution can also search for particular student from the detailed list of student to the institution. And they can also search depots and routes.</p>
+<b>Technologies used:</b>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap</li>
+<li>JS</li>
+<li>Python</li>
+<li>Django</li>
+<li>SQLite</li>
+</ul>
+<h2><b>Mobile shop management system:</b></h2>
+<p>Mobile shop management system is a software application that helps store owners and managers to keep track of their inventory, sales, and customer information in real-time, which can help them make better-informed decisions about their business.The system typically includes features such as:</p>
+<ul>
+<li><b>Inventory management:</b> Allows the user to track stock levels, add new products, and update pricing information.</li>
+
+<li><b>Sales management:</b> Allows the user to record sales, generate invoices, and view sales reports.</li>
+
+<li><b>Customer management:</b> Allows the user to store customer information, including contact details and purchase history.</li>
+
+<li><b>Reporting:</b> Provides real-time insights into store performance, such as sales trends and inventory levels.</li>
+</ul>
+<b>Technologies used:</b>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap</li>
+<li>JS</li>
+<li>PHP</li>
+<li>MySQL</li>
+</ul>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anandhu657&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anandhu657&theme=dark&hide_border=true)<br/>
