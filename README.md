@@ -74,7 +74,7 @@ FULL STACK Web Developer
 <!-- New readme -->
 
 # 💫 About Me:
-I'm currently working on brototype as an intern<br>I'm looking to collaborate on MEARN projects.<br>I’m interested in Full Stack Web Development(MEARN)<br>I completed my bachelor's degree in Computer Application...<br>I'm currently learning GO language<br><br>
+I'm currently working on brototype as an intern<br>I'm looking to collaborate on MEARN projects.<br>I’m interested in Full Stack Development(MEA(R)N)<br>I completed my bachelor's degree in Computer Application...<br>I'm currently learning GO language<br><br>
 
 
 ## 🌐 Socials:
