@@ -144,7 +144,7 @@ I'm currently working on brototype as an intern<br>I'm looking to collaborate on
 <a href="https://anandhu657.github.io/youtube-frontend-clone/">Youtube Clone</a><br>
 <a href="https://anandhu657.github.io/poco-Frontend-clone/">POCO Global Clone</a><br>
 <a href="https://ngtech.netlify.app/">ngTech pvt limited site model</a><br>
-<a href="https://codepen.io/anandhu657/full/zYPxQBY">New year eve timer</a><br>
+<a href="https://codepen.io/anandhu657/full/zYPxQBY">Timer</a><br>
 <a href="https://codepen.io/anandhu657/full/abWpPrK">Tribute page</a><br><br>
 
 <h2><b>❓ Problem solvings:</b></h2>
