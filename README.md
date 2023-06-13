@@ -153,7 +153,7 @@ I'm currently working on brototype as an intern<br>I'm looking to collaborate on
 <a href="https://app.codesignal.com/profile/anandhu_m">Code Signal</a><br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anandhu657&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=anandhu657&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anandhu657&theme=dark&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu657&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
