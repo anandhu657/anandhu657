@@ -74,8 +74,7 @@ FULL STACK Web Developer
 <!-- New readme -->
 
 # 💫 About Me:
-I'm currently working on brototype as an intern<br>I'm looking to collaborate on MEARN projects.<br>I’m interested in Full Stack Development(MEA(R)N)<br>I completed my bachelor's degree in Computer Application...<br>I'm currently learning GO language<br><br>
-
+I'm a Full Stack Developer with expertise in MEARN stack.<br>Bachelor's degree in Computer Application.<br>Passionate about collaborating on innovative software projects.<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100042475292216) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__aananduu_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandhu-ms-76b955201/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16396001/anandhu-ms) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anandhu21855579) 
